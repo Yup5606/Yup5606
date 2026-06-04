@@ -76,7 +76,7 @@ ESG 브랜드 경험 강화를 위한 팀 프로젝트
 
 ## Contact
 
-Portfolio
+Portfolio https://youbin-portfolio.netlify.app/
 
 Email youbinpark127@gmail.com
 
