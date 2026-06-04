@@ -35,9 +35,8 @@
 
 브랜드 중심 경험 강화를 목표로 진행한 웹사이트 리디자인 프로젝트
 
-→ Live Site
+→ [Live Site](https://rockfish-redesign.netlify.app/)
 
-→ Case Study
 
 ---
 
@@ -45,9 +44,8 @@
 
 기업 아이덴티티와 사용자 경험 개선을 중심으로 진행한 웹사이트 리디자인 프로젝트
 
-→ Live Site
+→ [Live Site](https://lotte-grs-redesign.netlify.app/)
 
-→ Case Study
 
 ---
 
@@ -55,9 +53,8 @@
 
 ESG 브랜드 경험 강화를 위한 팀 프로젝트
 
-→ Live Site
+→ [Live Site](https://parleyfortheocean-redesign.netlify.app/)
 
-→ Case Study
 
 ---
 
