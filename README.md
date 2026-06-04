@@ -81,8 +81,7 @@ ESG 브랜드 경험 강화를 위한 팀 프로젝트
 
 Portfolio
 
-Email
+Email youbinpark127@gmail.com
 
-GitHub
-
+GitHub yup5606@github.com
 </div>
