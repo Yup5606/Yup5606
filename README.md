@@ -1,6 +1,6 @@
 <div align="center">
 
-# YUBIN PARK
+# Youbin Park
 
 ### Web Designer · UI/UX Designer
 
